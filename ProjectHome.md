@@ -1,0 +1,1 @@
+AutoTelnet help you to send text commands to telnet, SSH or any other application. Supports multiple configuration files which can be called by command line, read readme.txt
